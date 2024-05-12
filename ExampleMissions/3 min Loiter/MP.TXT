@@ -1,0 +1,1 @@
+{"current_waypoint":0,"number_waypoints":4,"time_at_current":0,"cruise_speed":4000,"steer_big_p_gain":9.999999747e-6,"steer_small_p_gain":9.999999747e-6,"steer_i_gain":9.999999975e-7,"thrust_p_gain":0.001,"transition_threshold":3000000,"rough_sea":1000000,"brownout_thresh":2240,"sat_update":30000000,"exit_safemode_time":0,"lead_distance":20}

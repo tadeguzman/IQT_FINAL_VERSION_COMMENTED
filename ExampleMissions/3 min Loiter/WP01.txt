@@ -1,0 +1,1 @@
+{"latitude":392526515,"longitude":-764880677,"radius":20,"type":1,"time_on_station":120000}
